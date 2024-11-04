@@ -200,7 +200,6 @@ header{
 .Element1{
   grid-column: 1/2;
   grid-row: 1/2;
-  background-color: aqua;
   background-image: url(../img/port1.jpg);/*image inside container*/
   background-repeat: no-repeat;           /*image inside container*/
   background-size: cover;                 /*image inside container*/
@@ -211,7 +210,6 @@ header{
 .Element2{
   grid-column: 2/3;
   grid-row: 1/2;
-  background-color: blue;
   background-image: url(../img/port2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
